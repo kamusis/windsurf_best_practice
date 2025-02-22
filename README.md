@@ -11,8 +11,7 @@ windsurf_best_practice/
 │   ├── README.md      # Overview of memories
 │   └── global_rules.md # Global rules and conventions
 ├── workflow.md        # Workflow processes and procedures
-├── changelog.md       # Version history and changes
-└── .gitignore        # Git ignore patterns
+└── changelog.md       # Version history and changes
 ```
 
 ## Key Components
