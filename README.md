@@ -10,6 +10,7 @@ windsurf_best_practice/
 │   ├── guidelines/    # Detailed guidelines by category
 │   ├── README.md      # Overview of memories
 │   └── global_rules.md # Global rules and conventions
+├── README.md          # Project overview and documentation
 ├── workflow.md        # Workflow processes and procedures
 └── changelog.md       # Version history and changes
 ```
