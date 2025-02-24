@@ -4,6 +4,7 @@ A comprehensive guide for working effectively with Windsurf, the world's first a
 
 ## Repository Structure
 
+```
 windsurf_best_practice/
 ├── memories/           # Core guidelines and rules
 │   ├── guidelines/     # Detailed guidelines by category
@@ -13,6 +14,7 @@ windsurf_best_practice/
 ├── workflow.md         # Workflow processes and procedures
 ├── configuration.md    # Setup and customization instructions
 └── changelog.md        # Version history and changes
+```
 
 ## Key Components
 
