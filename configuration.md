@@ -11,6 +11,7 @@ However, compared to the official VSCode marketplace, the `open-vsx` marketplace
 open Windsurf setting page and change:
 
 Windsurf: Marketplace Extension Gallery Service URL -> https://marketplace.visualstudio.com/_apis/public/gallery
+
 Windsurf: Marketplace Gallery Item URL -> https://marketplace.visualstudio.com/items
 
 ![20250222200845](https://s2.loli.net/2025/02/22/M693gcxGZJDKhjB.png)
