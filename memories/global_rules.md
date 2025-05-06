@@ -20,6 +20,7 @@ This document serves as the central index for all WindSurf guidelines. Each sect
 - Code maintenance
 
 ### 3. [Commit Message Guidelines](memories/guidelines/03_commit_message_guidelines.md)
+- Only when preparing to make a `git commit`, please adhere to these guidelines.
 - Message format
 - Commit prefixes
 - Description rules

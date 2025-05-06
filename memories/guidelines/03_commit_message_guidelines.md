@@ -1,4 +1,5 @@
 # Commit Message Guidelines
+When preparing to make a `git commit`, please adhere to these guidelines.
 
 Write a short English commit message (maximum one sentence) for every change, formatted in a code block. Use the following format:
 

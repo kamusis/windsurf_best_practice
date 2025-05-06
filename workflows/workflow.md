@@ -38,3 +38,14 @@ once completed, you can work down the task list one at a time ticking them off.
 
 It's critical that all of the changes we make are done in a surgical way, with minimal code changes when possible. We must be very careful not to break or remove existing functionality. Do not introduce any new bugs or syntax errors.
 ```
+
+## Add Comments
+Prompt (Example for Python):
+```
+I have @python_file that I would like you to analyze. Please follow best practices to improve its readability by adding clear and concise comments wherever necessary. Your task is to:
+
+1.	Understand the code – Analyze the logic and functionality of the script.
+2.	Identify places needing comments – Add comments to explain complex logic, function purposes, important variables, and any non-obvious operations.
+3.	Follow best practices – Use clear, professional, and Pythonic commenting styles (inline comments for specific lines, and docstrings for functions/classes).
+4.	Do not alter the functionality – Only add comments without changing the existing code structure.
+```

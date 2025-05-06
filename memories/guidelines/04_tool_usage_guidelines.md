@@ -5,6 +5,7 @@
 - Select the most appropriate tool for each specific task
 - Avoid unnecessary tool calls
 - Gather sufficient information before tool selection
+- When attempting to read a file's contents, always attempt to read 200 lines of code at once. 
 
 ## 2. Efficient Information Gathering
 - Plan to collect all necessary data in a single step
