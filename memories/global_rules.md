@@ -32,7 +32,7 @@ This document serves as the central index for all WindSurf guidelines. Each sect
 - Code modification
 - Tool categories and purposes
 
-### 5. [Architecture Guidelines](memories/guidelines/05_architecture_mode_guildelines.md)
+### 5. [Architecture Guidelines](memories/guidelines/05_architecture_mode_guidelines.md)
 - Architecture mode principles
 - Tradeoff analysis process
 - System design workflow
